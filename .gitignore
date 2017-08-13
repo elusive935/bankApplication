@@ -1,0 +1,7 @@
+.idea
+bin
+feeds
+out
+*.classpath
+*.project
+*.iml
